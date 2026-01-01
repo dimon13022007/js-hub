@@ -9,6 +9,8 @@
 
 ---
 
+## Demo - https://js-hub-two.vercel.app/
+
 ## 📖 About
 
 **JS Hub** is an interactive platform for learning JavaScript and React with a minimalistic tech design. The project combines educational content, interactive code examples, and gamification through an achievements system.
